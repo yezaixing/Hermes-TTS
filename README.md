@@ -3,6 +3,7 @@
 > 📎 关联项目：[Hermes-QQ](https://github.com/yezaixing/hermes-qq) — Hermes Agent QQ 原生平台适配器
 
 通过本地 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) 服务实现文本转语音（TTS），并通过 NapCat/OneBot 发送到 QQ 作为可播放的语音条。
+（需要支持qq语音条发送请点击关联项目链接）
 
 支持**角色语音切换**（可莉、流萤、胡桃、纳西妲等），无需联网，完全本地运行。
 
